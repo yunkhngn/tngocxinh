@@ -9,4 +9,5 @@
     object-fit: cover;
     height: 100vh;
     cursor: pointer;
+    border: 10px solid white;
 }
