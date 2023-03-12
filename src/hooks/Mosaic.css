@@ -1,0 +1,12 @@
+.mosaic {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    justify-content: center;
+  }
+  
+  .mosaic img {
+    object-fit: cover;
+    height: 100vh;
+    cursor: pointer;
+}
